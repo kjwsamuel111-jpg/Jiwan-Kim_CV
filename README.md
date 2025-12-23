@@ -1,4 +1,4 @@
-# Curriculum Vitae
+# Curriculum
 
 **Name**: Jiwan Kim  
 **Affiliation**: Sungkyunkwan University  
